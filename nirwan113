@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Struktur Table</title>
+</head>
+<body>
+<table border="1" width="300">
+ <caption>DAFTAR NAMA MAHASISWA</caption>
+ <thead>
+  <tr>
+   <td>No</td>
+   <td>Nama</td>
+   <td>Jenis Kelamin</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>1</td>
+   <td>NIRWAN</td>
+   <td>Laki-Laki</td>
+  </tr>
+  <tr>
+   <td>2</td>
+   <td>JIHAN</td>
+   <td>Perempuan</td>
+  </tr>
+ </tbody>
+</table>
+</body>
+</html>
